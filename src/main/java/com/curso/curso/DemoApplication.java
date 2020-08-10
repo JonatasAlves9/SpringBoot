@@ -1,6 +1,5 @@
 package com.curso.curso;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 import com.curso.curso.domain.Categoria;
